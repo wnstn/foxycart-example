@@ -10,6 +10,9 @@ body {
 
 h1, h2, h3, h4 {
   font-family: $header-font-family;
+  text-align: center;
+  display: block;
+  margin-top: 2em;
 }
 
 a,
